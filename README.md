@@ -5,5 +5,6 @@ This mini project is an integral part of my learning journey in HTML, CSS, and J
 ## Screenshot
 
 ![Split Landing Page](img/split_landing_page.png)
+[Live Preview](https://milanilic-w28.github.io/split-landing-page/)
 
 
